@@ -19,4 +19,8 @@ pbrobo@pbrworkstation:~/esp/rust-esp/rust-geodesy-esp32$cargo +esp build
 ```
 Prepare a USB cable and connect it to the ESP32. Ensure that WSL2 recognizes the cable as a serial device. 
 ![ESP32](https://github.com/pbroboto/rust-geodesy-esp32/blob/main/esp32_usb_cable.jpg)
+
 Ready to flash to ESP32.
+```console
+pbrobo@pbrworkstation:~/esp/rust-esp/rust-geodesy-esp32$cargo run
+```
