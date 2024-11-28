@@ -17,4 +17,4 @@ Then use cargo to build.
 ```console
 pbrobo@pbrworkstation:~/esp/rust-esp/rust-geodesy-esp32$cargo +esp build
 ```
-![ESP32](http://url/to/img.png)
+![ESP32]([http://url/to/img.png](https://github.com/pbroboto/rust-geodesy-esp32/blob/main/esp32_usb_cable.jpg))
