@@ -8,10 +8,10 @@ In projects that require interfacing with RTK GNSS devices, there may be a need 
 The installation process for WSL2 on Windows is quite detailed, so I won’t cover it here. You can follow the step-by-step instructions provided at this [link](https://www.instructables.com/ESP32-ESP32C3-Blink-Test-Rust-Development-in-Windo/)
 
 
-Use git to clone my repository.
+Use Git to clone my repository.
 ```console
-pbrobo@pbrworkstation:~/esp/rust-esp/rust-geodesy-esp32$git clone https://github.com/pbroboto/rust-geodesy-esp32
-pbrobo@pbrworkstation:~/esp/rust-esp/rust-geodesy-esp32$cd rust-geodesy-esp32
+pbrobo@pbrworkstation:~/esp/rust-esp/$git clone https://github.com/pbroboto/rust-geodesy-esp32
+pbrobo@pbrworkstation:~/esp/rust-esp/$cd rust-geodesy-esp32
 ```
 Then use cargo to build.
 ```console
