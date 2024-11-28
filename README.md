@@ -9,6 +9,6 @@ The installation process for WSL2 on Windows is quite detailed, so I won’t cov
 
 
 Use git clone my repository.
-'''console
+```console
 pbrobo@pbrworkstation:~/esp/rust-esp/rust-geodesy-esp32$git clone https://github.com/pbroboto/rust-geodesy-esp32
-'''
+```
