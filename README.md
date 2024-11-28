@@ -13,8 +13,10 @@ Use Git to clone my repository.
 pbrobo@pbrworkstation:~/esp/rust-esp/$git clone https://github.com/pbroboto/rust-geodesy-esp32
 pbrobo@pbrworkstation:~/esp/rust-esp/$cd rust-geodesy-esp32
 ```
-Then use cargo to build.
+Use cargo to build.
 ```console
 pbrobo@pbrworkstation:~/esp/rust-esp/rust-geodesy-esp32$cargo +esp build
 ```
+Ready to flash to ESP32.
 ![ESP32](https://github.com/pbroboto/rust-geodesy-esp32/blob/main/esp32_usb_cable.jpg)
+
